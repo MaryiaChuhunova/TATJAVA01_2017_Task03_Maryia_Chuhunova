@@ -1,0 +1,6 @@
+Movie_Movie Author1_Movie Title1_21.02.2006_Movie Description1
+Disk_Disk Author1_Disk Title1_02.12.2010_song1.1;song1.2;song1.3;song1.4;song1.5;
+Book_Book Author1_Book Title1_17.05.2011_Book annotation1
+Movie_Movie Author2_Movie Title2_01.03.2004_Movie Description2
+Disk_Disk Author2_Disk Title2_11.09.2001_song2.1;song2.2;song2.3;song2.4;song2.5;
+Book_Book Author2_Book Title2_18.06.2013_Book annotation2
